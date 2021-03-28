@@ -37,7 +37,7 @@ The election commission has given you the following tasks to provide them with a
 ## Challenge Results
 Analysis of the election data showed that:
 1. The number of votes cast by county were:
-  -Jefferson: 38,855
+-Jefferson: 38,855
   -Denver: 306,055
   -Arapahoe: 24,801
 2. The percentage of total votes cast by each county were:
