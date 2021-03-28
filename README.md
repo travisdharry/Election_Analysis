@@ -17,13 +17,13 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Results
 The analysis of the election show that:
 1. There were 369,711 votes cast in the election.
-2. The candidates were:/
+2. The candidates were:\
   -Charles Casper Stockham\
-  -Diana DeGette<br/>
+  -Diana DeGette\
   -Raymon Anthony Doane
-3. The candidate results were:
-  -Charles Casper Stockham  23.0%  (85,213 votes)
-  -Diana DeGette  73.8%  (272,892 votes)
+3. The candidate results were:\
+  -Charles Casper Stockham  23.0%  (85,213 votes)\
+  -Diana DeGette  73.8%  (272,892 votes)\
   -Raymon Anthony Doane  3.1% (11,606 votes)
 4. The winner of the election was Diana DeGette.
 
@@ -36,13 +36,13 @@ The election commission has given you the following tasks to provide them with a
 
 ## Challenge Results
 Analysis of the election data showed that:
-1. The number of votes cast by county were:
--Jefferson: 38,855
-  -Denver: 306,055
+1. The number of votes cast by county were:\
+-Jefferson: 38,855\
+  -Denver: 306,055\
   -Arapahoe: 24,801
-2. The percentage of total votes cast by each county were:
-  -Jefferson: 10.5%
-  -Denver: 82.8%
+2. The percentage of total votes cast by each county were:\
+  -Jefferson: 10.5%\
+  -Denver: 82.8%\
   -Arapahoe: 6.7%
 3. The county with the highest turnout was Denver County.
 
